@@ -4,13 +4,8 @@ Each row in the dataset represents a single subject and activity with the mean a
  
 |Position  |Variable Name                         |Values or Explanation                                          |
 |---------:|----------------------------------    |-----------------------------------                            |
-|1         |activityName                          |LAYING                                                         |
-|          |                                      |SITTING                                                        |
-|          |                                      |STANDING                                                       |
-|          |                                      |WALKING                                                        |
-|          |                                      |WALKING_DOWNSTAIRS                                             |
-|          |                                      |WALKING_UPSTAIRS                                               |
-|2         |subject                               |1:30 identifying study participant                             |
+|1         |activityName                          |LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS|
+|2         |subject                               |1-30 identifying study participant                             |
 |3         |tBodyAcc-mean()-X                     |The remaining variables are obviously self explanatory :)      |
 |4         |tBodyAcc-mean()-Y                     |                                                               |
 |5         |tBodyAcc-mean()-Z                     |                                                               |
