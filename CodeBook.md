@@ -1,8 +1,7 @@
 ### Codebook for Human Activity Recognition Using Smartphones
-
+ 
 Each row in the dataset represents a single subject and activity with the mean and standard deviations for a series of key observations taken during the specified activity. All columns of data are separated by a space.
-
-|Variable  |                                      |                                                               |
+ 
 |Position  |Variable Name                         |Values or Explanation                                          |
 |---------:|----------------------------------    |-----------------------------------                            |
 |1         |activityName                          |LAYING                                                         |
