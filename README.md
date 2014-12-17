@@ -1,6 +1,6 @@
 ### Introduction
 
-This repository contains the R code required to complete the Coursera Getting and Cleaning Data - Data Science course project. this project demonstrates techniques for collecting and cleaning data. the end result being  a"tidy data set. All code is contained in the file run_analysis.R.
+This repository contains the R code required to complete the Coursera Getting and Cleaning Data - Data Science course project. this project demonstrates techniques for collecting and cleaning data. the end result being a "tidy" data set. All code is contained in the file run_analysis.R.
 
 ### Input Data
 
